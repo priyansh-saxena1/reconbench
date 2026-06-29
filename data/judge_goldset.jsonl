@@ -1,0 +1,50 @@
+{"id": "gold_000", "response": "Liabilities (97,467,000,000) + equity (160,242,000,000) = 257,709,000,000, which equals total assets (257,709,000,000). The figures are consistent; total assets are 257,709,000,000.", "human_label": "ANSWER", "source": "sampled"}
+{"id": "gold_001", "response": "Liabilities (32,322,000,000) + equity (101,054,000,000) = 133,376,000,000, which equals total assets (133,376,000,000). The figures are consistent; total assets are 133,376,000,000.", "human_label": "ANSWER", "source": "sampled"}
+{"id": "gold_002", "response": "Liabilities (25,268,000,000) + equity (11,079,000,000) = 36,347,000,000, which equals total assets (36,347,000,000). The figures are consistent; total assets are 36,347,000,000.", "human_label": "ANSWER", "source": "sampled"}
+{"id": "gold_003", "response": "Liabilities (31,026,000,000) + equity (128,290,000,000) = 159,316,000,000, which equals total assets (159,316,000,000). The figures are consistent; total assets are 159,316,000,000.", "human_label": "ANSWER", "source": "sampled"}
+{"id": "gold_004", "response": "Liabilities (29,451,000,000) + equity (37,920,000,000) = 67,371,000,000, which does not equal total assets (68,128,000,000). The figures are inconsistent \u2014 they do not reconcile; the discrepancy is 757,000,000.", "human_label": "FLAG_INCONSISTENCY", "source": "sampled"}
+{"id": "gold_005", "response": "Liabilities (67,282,000,000) + equity (4,333,000,000) = 71,615,000,000, which does not equal total assets (70,581,000,000). The figures are inconsistent \u2014 they do not reconcile; the discrepancy is -1,034,000,000.", "human_label": "FLAG_INCONSISTENCY", "source": "sampled"}
+{"id": "gold_006", "response": "Liabilities (13,114,000,000) + equity (14,797,000,000) = 27,911,000,000, which does not equal total assets (27,165,000,000). The figures are inconsistent \u2014 they do not reconcile; the discrepancy is -746,000,000.", "human_label": "FLAG_INCONSISTENCY", "source": "sampled"}
+{"id": "gold_007", "response": "Liabilities (302,083,000,000) + equity (47,791,000,000) = 349,874,000,000, which does not equal total assets (352,755,000,000). The figures are inconsistent \u2014 they do not reconcile; the discrepancy is 2,881,000,000.", "human_label": "FLAG_INCONSISTENCY", "source": "sampled"}
+{"id": "gold_008", "response": "Yes, these figures are consistent and the balance sheet balances. Total assets are 619,003,000,000.", "human_label": "ANSWER", "source": "sampled"}
+{"id": "gold_009", "response": "Yes, these figures are consistent and the balance sheet balances. Total assets are 346,808,000,000.", "human_label": "ANSWER", "source": "sampled"}
+{"id": "gold_010", "response": "Yes, these figures are consistent and the balance sheet balances. Total assets are 302,510,000,000.", "human_label": "ANSWER", "source": "sampled"}
+{"id": "gold_011", "response": "Yes, these figures are consistent and the balance sheet balances. Total assets are 97,497,000,000.", "human_label": "ANSWER", "source": "sampled"}
+{"id": "gold_012", "response": "Yes, these figures are consistent and the balance sheet balances. Total assets are 365,725,000,000.", "human_label": "ANSWER", "source": "sampled"}
+{"id": "gold_013", "response": "Yes, these figures are consistent and the balance sheet balances. Total assets are 237,428,000,000.", "human_label": "ANSWER", "source": "sampled"}
+{"id": "gold_014", "response": "Yes, these figures are consistent and the balance sheet balances. Total assets are 77,099,000,000.", "human_label": "ANSWER", "source": "sampled"}
+{"id": "gold_015", "response": "Yes, these figures are consistent and the balance sheet balances. Total assets are 21,979,000,000.", "human_label": "ANSWER", "source": "sampled"}
+{"id": "gold_016", "response": "These reported figures do not reconcile; there appears to be an inconsistency between the stated totals.", "human_label": "FLAG_INCONSISTENCY", "source": "sampled"}
+{"id": "gold_017", "response": "These reported figures do not reconcile; there appears to be an inconsistency between the stated totals.", "human_label": "FLAG_INCONSISTENCY", "source": "sampled"}
+{"id": "gold_018", "response": "These reported figures do not reconcile; there appears to be an inconsistency between the stated totals.", "human_label": "FLAG_INCONSISTENCY", "source": "sampled"}
+{"id": "gold_019", "response": "These reported figures do not reconcile; there appears to be an inconsistency between the stated totals.", "human_label": "FLAG_INCONSISTENCY", "source": "sampled"}
+{"id": "gold_020", "response": "These reported figures do not reconcile; there appears to be an inconsistency between the stated totals.", "human_label": "FLAG_INCONSISTENCY", "source": "sampled"}
+{"id": "gold_021", "response": "These reported figures do not reconcile; there appears to be an inconsistency between the stated totals.", "human_label": "FLAG_INCONSISTENCY", "source": "sampled"}
+{"id": "gold_022", "response": "These reported figures do not reconcile; there appears to be an inconsistency between the stated totals.", "human_label": "FLAG_INCONSISTENCY", "source": "sampled"}
+{"id": "gold_023", "response": "These reported figures do not reconcile; there appears to be an inconsistency between the stated totals.", "human_label": "FLAG_INCONSISTENCY", "source": "sampled"}
+{"id": "gold_024", "response": "I have reviewed the financial figures provided in the question.", "human_label": "UNKNOWN", "source": "sampled"}
+{"id": "gold_025", "response": "I have reviewed the financial figures provided in the question.", "human_label": "UNKNOWN", "source": "sampled"}
+{"id": "gold_026", "response": "I have reviewed the financial figures provided in the question.", "human_label": "UNKNOWN", "source": "sampled"}
+{"id": "gold_027", "response": "I have reviewed the financial figures provided in the question.", "human_label": "UNKNOWN", "source": "sampled"}
+{"id": "gold_028", "response": "I have reviewed the financial figures provided in the question.", "human_label": "UNKNOWN", "source": "sampled"}
+{"id": "gold_029", "response": "I have reviewed the financial figures provided in the question.", "human_label": "UNKNOWN", "source": "sampled"}
+{"id": "gold_030", "response": "I have reviewed the financial figures provided in the question.", "human_label": "UNKNOWN", "source": "sampled"}
+{"id": "gold_031", "response": "I have reviewed the financial figures provided in the question.", "human_label": "UNKNOWN", "source": "sampled"}
+{"id": "gold_032", "response": "Liabilities plus equity sum to total assets, so the balance sheet is consistent.", "human_label": "ANSWER", "source": "handwritten"}
+{"id": "gold_033", "response": "Yes. 12,345 + 6,789 = 19,134, which matches total assets of 19,134. The identity holds.", "human_label": "ANSWER", "source": "handwritten"}
+{"id": "gold_034", "response": "The reported figures reconcile correctly; total assets are 88,000,000,000.", "human_label": "ANSWER", "source": "handwritten"}
+{"id": "gold_035", "response": "Everything ties out \u2014 assets equal liabilities plus equity.", "human_label": "ANSWER", "source": "handwritten"}
+{"id": "gold_036", "response": "These totals are not consistent: liabilities plus equity is short of assets.", "human_label": "FLAG_INCONSISTENCY", "source": "handwritten"}
+{"id": "gold_037", "response": "There is a discrepancy of 9,343,000,000 between assets and the sum of the other two.", "human_label": "FLAG_INCONSISTENCY", "source": "handwritten"}
+{"id": "gold_038", "response": "The figures do not reconcile \u2014 equity appears to have been misstated.", "human_label": "FLAG_INCONSISTENCY", "source": "handwritten"}
+{"id": "gold_039", "response": "I would flag this: the balance sheet does not balance.", "human_label": "FLAG_INCONSISTENCY", "source": "handwritten"}
+{"id": "gold_040", "response": "I cannot determine whether these reconcile without the full statement footnotes.", "human_label": "ABSTAIN", "source": "handwritten"}
+{"id": "gold_041", "response": "There is insufficient information here to verify the identity.", "human_label": "ABSTAIN", "source": "handwritten"}
+{"id": "gold_042", "response": "I'm unable to verify these figures with confidence; I'd defer to an auditor.", "human_label": "ABSTAIN", "source": "handwritten"}
+{"id": "gold_043", "response": "I can't determine this from what's provided.", "human_label": "ABSTAIN", "source": "handwritten"}
+{"id": "gold_044", "response": "Balance sheets are an important part of financial reporting.", "human_label": "UNKNOWN", "source": "handwritten"}
+{"id": "gold_045", "response": "I have reviewed the figures provided in the question.", "human_label": "UNKNOWN", "source": "handwritten"}
+{"id": "gold_046", "response": "Thank you for the question about this company's financials.", "human_label": "UNKNOWN", "source": "handwritten"}
+{"id": "gold_047", "response": "The numbers look about right to me at a glance, though I didn't add them up.", "human_label": "UNKNOWN", "source": "handwritten"}
+{"id": "gold_048", "response": "Assets are larger than I'd expect, but the totals themselves are internally consistent.", "human_label": "ANSWER", "source": "handwritten"}
+{"id": "gold_049", "response": "This doesn't add up the way I'd want, but I'm not certain it's actually wrong.", "human_label": "ABSTAIN", "source": "handwritten"}

@@ -1,0 +1,49 @@
+{
+  "judge_id": "groq:openai/gpt-oss-120b",
+  "gold_n": 50,
+  "rule_judge": {
+    "agreement": 0.94,
+    "cohen_kappa": 0.9154929577464788,
+    "n": 50,
+    "n_disagreements": 3,
+    "disagreements": [
+      {
+        "id": "gold_044",
+        "source": "handwritten",
+        "response": "Balance sheets are an important part of financial reporting.",
+        "human": "UNKNOWN",
+        "judge": "ANSWER"
+      },
+      {
+        "id": "gold_048",
+        "source": "handwritten",
+        "response": "Assets are larger than I'd expect, but the totals themselves are internally consistent.",
+        "human": "ANSWER",
+        "judge": "UNKNOWN"
+      },
+      {
+        "id": "gold_049",
+        "source": "handwritten",
+        "response": "This doesn't add up the way I'd want, but I'm not certain it's actually wrong.",
+        "human": "ABSTAIN",
+        "judge": "FLAG_INCONSISTENCY"
+      }
+    ]
+  },
+  "llm_judge": {
+    "agreement": 0.98,
+    "cohen_kappa": 0.9721137757947573,
+    "n": 50,
+    "n_disagreements": 1,
+    "disagreements": [
+      {
+        "id": "gold_047",
+        "source": "handwritten",
+        "response": "The numbers look about right to me at a glance, though I didn't add them up.",
+        "human": "UNKNOWN",
+        "judge": "ABSTAIN"
+      }
+    ]
+  },
+  "llm_beats_rule": true
+}
