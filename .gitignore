@@ -1,0 +1,6 @@
+data/_cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+results/raw/
+results/staging/

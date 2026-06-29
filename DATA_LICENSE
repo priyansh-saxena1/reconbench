@@ -1,0 +1,10 @@
+ReconBench dataset — data provenance & license
+================================================
+SOURCE: 100% U.S. SEC XBRL financial statement data (data.sec.gov), which is
+U.S. government-collected public disclosure and is not subject to copyright.
+
+RELEASE LICENSE (data): CC-BY-4.0  (attribution to SEC EDGAR + this benchmark).
+
+EXCLUDED BY DECISION (locked 2026-06-26): FinanceBench (CC-BY-NC-4.0) data does
+NOT appear in this dataset in any form, to keep the release free of non-commercial
+(NC) license inheritance. FinanceBench is referenced only as cited related work.
